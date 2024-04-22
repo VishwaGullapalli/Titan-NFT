@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Basic NFT Marketplace end to end
 
 This code is for the Tutorial [Build your own NFT Marketplace from Scratch](https://docs.alchemy.com/alchemy/) built by [alchemy.com](https://alchemy.com)
@@ -9,3 +10,6 @@ cd NFT-Marketplace-Tutorial
 npm install
 npm start
 ```
+=======
+# Titan-NFT
+>>>>>>> 01336487759219652b524d2567ab24a9b759aeed
